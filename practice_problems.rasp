@@ -1,0 +1,16 @@
+# Problem 1: Write an s-op that contains the indices in reverse order. For example:
+# > reverse_indices("hello")
+# [4, 3, 2, 1, 0]
+
+reverse_indices = length - indices - 1;
+
+
+
+# Problem 2: Write a function that "rotates" the input text by the specified number of characters. For example:
+
+# > rotate(tokens, 0)("hello")
+# "hello"
+# > rotate(tokens, 1)("hello")
+# "ohell"
+# > rotate(tokens, 2)("hello")
+# "lohel"
