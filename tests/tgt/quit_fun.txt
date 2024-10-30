@@ -1,3 +1,0 @@
-RASP 0.1
-running example is: hello
->> 
